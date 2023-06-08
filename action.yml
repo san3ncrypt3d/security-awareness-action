@@ -1,0 +1,5 @@
+name: Security Awareness Action
+description: Perform security awareness activities
+runs:
+  using: docker
+  image: Dockerfile
